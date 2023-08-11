@@ -1,16 +1,19 @@
-### Hi there 👋
+# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Mysterious">
 
-<!--
-**mysteriouss3/mysteriouss3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/638161683717554217">
+<div align="left" width="100%">
 
-Here are some ideas to get you started:
+<b> Experience <b>
+<samp>
+- Discord.js 
+- JavaScript
+- C#
+- Vb.Net 
+- Laravel - PHP
+- MongoDB
+- Reverse Engineering
+<samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mysteriouss3&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
