@@ -5,12 +5,12 @@
 
 <b> Experience <b>
 <samp>
-- Discord.js 
-- JavaScript
 - C#
 - Vb.Net 
-- Laravel - PHP
+- Discord.js
 - MongoDB
+- JavaScript
+- Laravel - PHP
 - Reverse Engineering
 <samp>
 
