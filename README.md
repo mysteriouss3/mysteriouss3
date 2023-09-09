@@ -7,7 +7,7 @@ Profili Gezen Kişi Sayısı<br>
 
 # <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Mysterious">
 
-<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/638161683717554217">
+<img width="30%" align="right" src="https://lanyard.kyrie25.me/api/638161683717554217?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness">
 <div align="left" width="100%">
 
 <b> Experience <b>
