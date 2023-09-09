@@ -22,10 +22,9 @@ Profili Gezen Kişi Sayısı<br>
 <samp>
 
 ## I'm Listening Right Now
-<b>
-<img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=z8tws1c5i0ympjfw6649yvkl4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
-<b>
 
-## Github Stats
+<img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=z8tws1c5i0ympjfw6649yvkl4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
+
+<b> Github Stats <b>
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mysteriouss3&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
