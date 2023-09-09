@@ -38,6 +38,6 @@ Profili Gezen Kişi Sayısı<br>
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel,bootstrap,dotnet,js,cs,atom,unity,visualstudio,vscode,theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,mongo,laravel,bootstrap,dotnet,js,cs,atom,unity,visualstudio,vscode,theme=dark)](https://skillicons.dev)
 
 
