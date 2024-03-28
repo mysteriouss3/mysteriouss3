@@ -14,15 +14,11 @@ Profili Gezen Kişi Sayısı<br>
 <samp>
 - C#
 - Vb.Net 
-- Discord.js
 - MongoDB
 - JavaScript
 - Laravel - PHP
 - Reverse Engineering
 <samp>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qz7y7orehtzwcjagiq4ppsmwji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qz7y7orehtzwcjagiq4ppsmwji&redirect=true)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qz7y7orehtzwcjagiq4ppsmwji)
 
 
 ## I'm Listening Right Now
@@ -42,6 +38,6 @@ Profili Gezen Kişi Sayısı<br>
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,mongo,laravel,unity,dotnet,cs,visualstudio,vscode,atom,theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,discord,mongo,laravel,unity,dotnet,cs,visualstudio,vscode,atom,theme=dark)](https://skillicons.dev)
 
 
